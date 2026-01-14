@@ -9,4 +9,4 @@ A Presentation I made to encourage AI integration in Ex Libris (Clarivate)
 
 #### Dealing with Deep Debt: The Journey from Debt to Financial Stability
 A Presentation I made after accompaying families with Paamonim
-- presentation:
+- [Presentation](https://github.com/David-YY-Berger/Presentations/blob/main/Dealing%20with%20Deep%20Debt/Dealing%20with%20Deep%20Debt.pdf)
